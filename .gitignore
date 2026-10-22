@@ -1,0 +1,7 @@
+# The original upload archive is kept locally as an untracked source.
+source-photos/
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+*.swp
